@@ -2,5 +2,5 @@ git status "apresenta os arquivos novos dentro da pasta"
 ls "apresenta os arquivos dentro da pasta que está sendo utilizada no desktop"
 git add . "Adiciona os arquivos que você quer mandar para o Github"
 git commit -m "adicione o comentário do que você está fazendo, quais as anotações"
-git push origin mail "sincroniza com o Github"
+git push origin main "sincroniza com o Github"
 
