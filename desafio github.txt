@@ -1,0 +1,2 @@
+Desafio de Git/Github para sincronizar os arquivos criados e disponibilizados pelo computador ao repositório na nuvem.
+o Git Bash é um terminal utizado para otimizar o uso do Git.
